@@ -1,0 +1,83 @@
+﻿Name,Assign,Status
+Card 1,,
+Card 2,,
+Card 3,,
+"Page de Connexion : 
+Création de la page de connexion à l'application
+
+Frame 1",,ANALYZE
+"Page de Connexion :
+Ajouter un compte utilisateur
+
+Fonctionnalité : “Créer un compte utilisateur” (p.2)
+Frame 1",,ANALYZE
+"Page de Connexion :
+Ajouter un système de récupération de mot de passe
+
+Fonctionnalité : “Utiliser un système de récupération de mot de passe” (p.3)
+Frame 1",,ANALYZE
+"Page du Tableau de bord :
+Création de la page affichant le tableau de bord de l'utilisateur
+
+Frame 2",,ANALYZE
+"Page du Tableau de bord :
+Ajout d'un système permettant de consulter le calendrier de l'utilisateur
+
+Fonctionnalité : “Consulter le calendrier” (p.5)
+Frame 2",,ANALYZE
+"Page du Tableau de bord :
+Ajout d'un système permettant de consulter les tâches de l'utilisateur
+
+Fonctionnalité : “Consulter les tâches” (p.5)
+Frame 2",,ANALYZE
+"Page d'interface utilisateur :
+Création de la page affichant le chat de l’utilisateur
+
+Frame 3",,ANALYZE
+"Page d'interface utilisateur :
+Ajout d'un système permettant d'ajouter un correspondant dans ses contacts
+
+Fonctionnalité : “Ajouter un contact” (p.6)
+Frame 3",,ANALYZE
+"Page d'interface utilisateur :
+Ajout d'un système permettant de supprimer un correspondant dans ses contacts
+
+Fonctionnalité : “Supprimer un contact” (p.6)
+Frame 3",,ANALYZE
+"Page de Calendrier :
+Création de la page affichant le calendrier de l’utilisateur
+Frame 4",,ANALYZE
+"Page de Calendrier : 
+Ajouter/Supprimer un événement dans son propre calendrier (en tant que étudiant/tuteur)
+
+Fonctionnalité : “Ajouter un rendez-vous” (p.7)
+Fonctionnalité : “Supprimer un rendez-vous” (p.7)
+Frame 4",,ANALYZE
+"Page de Calendrier :
+Ajouter un bouton de déconnexion de l'application
+
+Fonctionnalité : “Se déconnecter” (p.7)
+Frame 4",,ANALYZE
+"Page de Calendrier :
+Ajouter un bouton de navigation pour retourner sur la page du tableau de bord
+
+Fonctionnalité : “Revenir au tableau de bord” (p.7)
+Frame 4",,ANALYZE
+"Page de gestion des tâches :
+Création de la page affichant les tâches restant à effectuer de l'utilisateur
+
+Frame 5",,ANALYZE
+"Page de gestion des tâches :  
+Ajout d'un système permettant d'ajouter une tâche dans son planning des tâches à effectuer pour l'utilisateur       
+
+Fonctionnalité : “Ajouter une tâche pour l’élève” (p.8)
+Fonctionnalité : “Ajouter une tâche pour le tuteur” (p.8)
+Frame 5",,ANALYZE
+"Page de gestion des tâches :  
+Ajout d'un système permettant de supprimer une tâche dans son planning des tâches à effectuer pour l'utilisateur       
+
+Fonctionnalité : “Supprimer une tâche” (p.8)
+Frame 5
+",,ANALYZE
+PRODUCTION,,
+,,
