@@ -1,0 +1,2 @@
+# Designez-une-application-Python-adapt-e-aux-besoins-d-un-client
+1. Les diagrammes de cas d'usage pour chacune des fonctionnalités majeures de chaque page (connexion, chat, calendrier, gestionnaire de tâches, tableau de bord).                        2. Les users stories avec critère(s) d'acceptation pour chacune des fonctionnalités.                                                  3. Les maquettes fonctionnelles (wireframes) du site.            4. Un kanban découpant le projet en blocs de fonctionnalités et sous-fonctionnalités pour le développement.
